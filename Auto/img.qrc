@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/IMG">
+        <file alias="Este">AUTO_TD_ESTE_PNG.png</file>
+        <file alias="Norte">AUTO_TD_NORTE_PNG.png</file>
+        <file alias="Oeste">AUTO_TD_OESTE_PNG.png</file>
+        <file alias="Sur">AUTO_TD_SUR_PNG.png</file>
+        <file alias="Molino">home9.png</file>
+        <file alias="NorEste">AUTO_TD_NORESTE_PNG.png</file>
+        <file alias="NorOeste">AUTO_TD_NOROESTE_PNG.png</file>
+        <file alias="SurEste">AUTO_TD_SURESTE_PNG.png</file>
+        <file alias="SurOeste">AUTO_TD_SUROESTE_PNG.png</file>
+    </qresource>
+</RCC>
